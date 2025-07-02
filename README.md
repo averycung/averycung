@@ -1,4 +1,6 @@
 ## hey, I'm avery
+![](https://komarev.com/ghpvc/?username=averycung&color=blue)
+
 here's what I'm up to 
 * automation and finance intern @ [Multimatic](https://www.multimaticmotorsports.com/)
 * computer science @ [Western University](https://www.uwo.ca/index.html)
